@@ -4,7 +4,7 @@ body{
 	
 	/*Vamos adicionar uma imagem de fundo.
 	Um background que irá completar toda a tela*/
-	background-image: url("../imagens/cafeteria5.jpg");
+	background-image: url("../imagens/cafeteria4.jpg");
 	
 	/*Ocupar a tela inteira*/
 	background-size: 100% 100%; /*Quando ajustar a tela, a imagem ajustará também*/
