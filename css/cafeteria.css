@@ -1,0 +1,12 @@
+body{
+	margin:0px; /*Zerando as margens externas*/
+	padding:0px; /*Zerando as margens internas*/
+	
+	/*Vamos adicionar uma imagem de fundo.
+	Um background que irá completar toda a tela*/
+	background-image: url("../imagens/cafeteria5.jpg");
+	
+	/*Ocupar a tela inteira*/
+	background-size: 100% 100%; /*Quando ajustar a tela, a imagem ajustará também*/
+	background-attachment:fixed; /*Fixar imagem ao fundo*/
+}
